@@ -10,7 +10,7 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        // SEGUNDO COMMIT
+        // TERCEIRO COMMIT
         bool repeticao = true;
 
         List<Conta> listaContas = new List<Conta>();
@@ -82,49 +82,49 @@ internal class Program
         } while (repeticao);
 
 
-        do
-        {
-            int contaDesejada = 0;
-            Conta conta = new Conta();
-            string escolha2 = "";
-            escolha2 = Console.ReadLine();
+        //do
+        //{
+        //    int contaDesejada = 0;
+        //    Conta conta = new Conta();
+        //    string escolha2 = "";
+        //    escolha2 = Console.ReadLine();
 
-            Console.Write("Informe o ID da conta que deseja SACAR/DEPOSITAR: ");
-            contaDesejada = Convert.ToInt32(Console.ReadLine());
+        //    Console.Write("Informe o ID da conta que deseja SACAR/DEPOSITAR: ");
+        //    contaDesejada = Convert.ToInt32(Console.ReadLine());
 
-            if (int.TryParse(escolha2, out int escolhaInt))
-            {
-                switch (escolhaInt)
-                {
-                    case 1:
-                        double valorDeposito = 0;
+        //    if (int.TryParse(escolha2, out int escolhaInt))
+        //    {
+        //        switch (escolhaInt)
+        //        {
+        //            case 1:
+        //                double valorDeposito = 0;
 
-                        Console.Write("Valor para depósito: ");
-                        valorDeposito = Convert.ToDouble(Console.ReadLine());
+        //                Console.Write("Valor para depósito: ");
+        //                valorDeposito = Convert.ToDouble(Console.ReadLine());
 
-                        conta.Deposito(valorDeposito);
+        //                conta.Deposito(valorDeposito);
 
-                        break;
+        //                break;
 
-                    case 2:
-                        double valorSaque = 0;
+        //            case 2:
+        //                double valorSaque = 0;
 
-                        Console.Write("Valor para saque: ");
-                        valorSaque = Convert.ToDouble(Console.ReadLine());
+        //                Console.Write("Valor para saque: ");
+        //                valorSaque = Convert.ToDouble(Console.ReadLine());
 
-                        conta.Saque(valorSaque);
-                        break;
+        //                conta.Saque(valorSaque);
+        //                break;
 
-                    case 3:
-                        repeticao = false;
-                        break;
-                }
-            }
-            else
-            {
-                Console.WriteLine("Digite apenas números!");
-            }
-        } while (repeticao);
+        //            case 3:
+        //                repeticao = false;
+        //                break;
+        //        }
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("Digite apenas números!");
+        //    }
+        //} while (repeticao);
     }
 }
 
