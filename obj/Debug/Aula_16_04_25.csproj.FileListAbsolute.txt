@@ -1,0 +1,14 @@
+C:\Users\2024102060018\source\repos\Aula_16_04_25\bin\Debug\Aula_16_04_25.exe.config
+C:\Users\2024102060018\source\repos\Aula_16_04_25\bin\Debug\Aula_16_04_25.exe
+C:\Users\2024102060018\source\repos\Aula_16_04_25\bin\Debug\Aula_16_04_25.pdb
+C:\Users\2024102060018\source\repos\Aula_16_04_25\obj\Debug\Aula_16_04_25.csproj.AssemblyReference.cache
+C:\Users\2024102060018\source\repos\Aula_16_04_25\obj\Debug\Aula_16_04_25.csproj.CoreCompileInputs.cache
+C:\Users\2024102060018\source\repos\Aula_16_04_25\obj\Debug\Aula_16_04_25.exe
+C:\Users\2024102060018\source\repos\Aula_16_04_25\obj\Debug\Aula_16_04_25.pdb
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\bin\Debug\Aula_16_04_25.exe.config
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\bin\Debug\Aula_16_04_25.exe
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\bin\Debug\Aula_16_04_25.pdb
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\obj\Debug\Aula_16_04_25.csproj.AssemblyReference.cache
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\obj\Debug\Aula_16_04_25.csproj.CoreCompileInputs.cache
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\obj\Debug\Aula_16_04_25.exe
+C:\ADS\3° Péríodo\POO\Aula_16_04_25\obj\Debug\Aula_16_04_25.pdb

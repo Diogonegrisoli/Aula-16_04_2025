@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ADS\\3\u00B0 P\u00E9r\u00EDodo\\POO\\Aula_16_04_25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D0AADF-1165-4792-803E-9E5652224994}|Aula_16_04_25.csproj|C:\\ADS\\3\u00B0 P\u00E9r\u00EDodo\\POO\\Aula_16_04_25\\caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D0AADF-1165-4792-803E-9E5652224994}|Aula_16_04_25.csproj|solutionrelative:caixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D0AADF-1165-4792-803E-9E5652224994}|Aula_16_04_25.csproj|c:\\ads\\3\u00B0 p\u00E9r\u00EDodo\\poo\\aula_16_04_25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D0AADF-1165-4792-803E-9E5652224994}|Aula_16_04_25.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caixa.cs",
+              "DocumentMoniker": "C:\\ADS\\3\u00B0 P\u00E9r\u00EDodo\\POO\\Aula_16_04_25\\Caixa.cs",
+              "RelativeDocumentMoniker": "Caixa.cs",
+              "ToolTip": "C:\\ADS\\3\u00B0 P\u00E9r\u00EDodo\\POO\\Aula_16_04_25\\Caixa.cs",
+              "RelativeToolTip": "Caixa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:35:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ADS\\3\u00B0 P\u00E9r\u00EDodo\\POO\\Aula_16_04_25\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ADS\\3\u00B0 P\u00E9r\u00EDodo\\POO\\Aula_16_04_25\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:33:07.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
